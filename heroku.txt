@@ -1,0 +1,4 @@
+heroku git repo
+heroku git:remote -a stable-dao-heroku-app
+https://dashboard.heroku.com/apps/stable-dao-heroku-app/deploy/heroku-git
+
